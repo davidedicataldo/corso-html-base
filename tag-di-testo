@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8">
+    <title>Tag di Testo in HTML</title>
+  </head>
+  <body>
+    <h1>Intestazione Principale</h1>
+    <h2>Intestazione Secondaria</h2>
+    <h3>Intestazione di Terzo Livello</h3>
+    <p>Questo è un paragrafo di esempio.</p>
+    <hr>
+    <p>Questo è un altro paragrafo con<br>un'interruzione di riga.</p>
+  </body>
+</html>
