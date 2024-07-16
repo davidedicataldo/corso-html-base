@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8">
+    <title>Introduzione alle Tabelle</title>
+  </head>
+  <body>
+    <h1>Esempi di Tabelle</h1>
+    <h2>Tabella Semplice</h2>
+    <table border="1">
+      <tr>
+        <td>Dato 1</td>
+        <td>Dato 2</td>
+        <td>Dato 3</td>
+      </tr>
+      <tr>
+        <td>Dato 4</td>
+        <td>Dato 5</td>
+        <td>Dato 6</td>
+      </tr>
+    </table>
+    <h2>Tabella con Intestazioni</h2>
+    <table border="1">
+      <tr>
+        <th>Intestazione 1</th>
+        <th>Intestazione 2</th>
+        <th>Intestazione 3</th>
+      </tr>
+      <tr>
+        <td>Dato 1</td>
+        <td>Dato 2</td>
+        <td>Dato 3</td>
+      </tr>
+      <tr>
+        <td>Dato 4</td>
+        <td>Dato 5</td>
+        <td>Dato 6</td>
+      </tr>
+    </table>
+  </body>
+</html>
